@@ -1,2 +1,5 @@
 # Updated dropout layer dependency
 # Example: dropout_layer==new_version
+
+# Check for outdated packages
+pip list --outdated

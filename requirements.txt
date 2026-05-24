@@ -1,3 +1,4 @@
+early_stopping_pytorch==1.0.10
 # Updated dropout layer dependency
 dropout_layer==new_version
 

@@ -1,1 +1,2 @@
+torch==latest_version
 early_stopping_pytorch==1.0.10

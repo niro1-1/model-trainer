@@ -1,5 +1,10 @@
 # Updated dropout layer dependency
 # Example: dropout_layer==new_version
 
+# Ensure a warning is emitted when training falls back to CPU.
+import warnings
+
+warnings.warn('Training has fallen back to CPU. Please check your setup.')
+
 # Check for outdated packages
 pip list --outdated

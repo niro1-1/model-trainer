@@ -1,4 +1,4 @@
-# Updated dropout layer dependency
+early_stopping_pytorch==1.0.11
 # Example: dropout_layer==new_version
 
 # Check for outdated packages

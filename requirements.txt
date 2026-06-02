@@ -1,1 +1,1 @@
-early_stopping_pytorch==1.0.11
+early_stopping_pytorch==1.0.12

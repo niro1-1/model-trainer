@@ -1,0 +1,1 @@
+{"name": "model-trainer", "version": "1.0.0", "description": "Model training utility", "main": "index.js", "scripts": {"start": "node index.js"}, "dependencies": {"seed42": "^1.0.0"}, "devDependencies": {}}

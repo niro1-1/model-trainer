@@ -1,0 +1,1 @@
+# LRU Cache implementation\n\ndef get_cache():\n    return {}

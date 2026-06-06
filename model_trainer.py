@@ -1,4 +1,5 @@
 import warnings
+import torch
 
 # Check for CUDA availability
 if not torch.cuda.is_available():

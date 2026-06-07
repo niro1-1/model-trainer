@@ -1,0 +1,1 @@
+from functools import lru_cache\n\n@lru_cache(maxsize=100)\ndef load_data(file_path):\n    # Simulated data loading\n    return f"Data from {file_path}"

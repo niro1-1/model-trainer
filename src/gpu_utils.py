@@ -1,0 +1,1 @@
+import warnings\ndef check_gpu_availability():\n    # Simulated GPU check\n    gpu_available = False\n    if not gpu_available:\n        warnings.warn("GPU fallback detected. Performance may be impacted.")

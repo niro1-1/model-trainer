@@ -1,0 +1,1 @@
+import torch\n\ndef check_gpu_availability():\n    if not torch.cuda.is_available():\n        print("Warning: No GPU available. Training will proceed on CPU, which may be significantly slower.")\n\n# Call the check at the start of training\ncheck_gpu_availability()
